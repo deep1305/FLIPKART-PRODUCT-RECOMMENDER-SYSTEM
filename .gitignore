@@ -50,3 +50,5 @@ grafana/grafana deployment.txt
 # OS
 .DS_Store
 Thumbs.db
+~$*.docx
+*.tmp
