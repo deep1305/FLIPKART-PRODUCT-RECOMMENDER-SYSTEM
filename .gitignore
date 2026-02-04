@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.flaskenv
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Logs
+*.log
+
+
+# Project specific notes/temp files (if you don't want them in git)
+*need.txt
+imp notes*.txt
+why_load_Existing.txt
+flask-deployment yaml and prometheus deployment, prometheus config.txt
+grafana/grafana deployment.txt
+# OS
+.DS_Store
+Thumbs.db
