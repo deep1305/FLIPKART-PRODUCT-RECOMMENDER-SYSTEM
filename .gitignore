@@ -38,7 +38,7 @@ env/
 
 # Data and Logs
 *.log
-
+*.docx
 
 # Project specific notes/temp files (if you don't want them in git)
 *need.txt
