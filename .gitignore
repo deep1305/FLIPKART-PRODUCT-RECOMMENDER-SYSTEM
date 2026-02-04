@@ -44,6 +44,7 @@ env/
 *need.txt
 imp notes*.txt
 why_load_Existing.txt
+main.py
 flask-deployment yaml and prometheus deployment, prometheus config.txt
 grafana/grafana deployment.txt
 # OS
